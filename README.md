@@ -7,7 +7,10 @@
 4. JIRA
 5. Docker
 
+---
+
 Studiowałam na [WSB](https://www.wsb.pl/wroclaw/kandydaci/studia-podyplomowe/kierunki/tester-oprogramowania-dla-aplikacji-mobilnych-i-serwerowych)
+---
 
 Skontaktuj się ze mną: akola@post.pl
 

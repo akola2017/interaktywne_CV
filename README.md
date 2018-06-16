@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Strona o mnie!
 
-You can use the [editor on GitHub](https://github.com/akola2017/interaktywne_CV/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Ulubione narzędzia testerkie:
+1. Selenium
+2. Robot FrameWork
+3. Appium
+4. JIRA
+5. Docker
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Studiowałam na https://www.wsb.pl/wroclaw/kandydaci/studia-podyplpomowe/[GitHub](http://github.com)
 
-### Markdown
+Skontaktuj się ze mną: akola@post.pl
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akola2017/interaktywne_CV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

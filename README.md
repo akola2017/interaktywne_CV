@@ -13,9 +13,8 @@ Studiowałam na [WSB Wrocław](https://www.wsb.pl/wroclaw/kandydaci/studia-podyp
 ---
 
 Moje ulubione Video:
-<BR>
-<a href="https://www.youtube.com/watch?v=8h5knh2jLCA"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+<a href="https://www.youtube.com/watch?v=8h5knh2jLCA">Framework</a>
 
   
 | Znajomoąść języków   | Poziom      | 

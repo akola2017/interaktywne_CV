@@ -18,10 +18,11 @@ Moje ulubione Video:
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ---
 | Znajomoąść języków   | Poziom      | 
-| -------------------- |-------------| 
+| -------------------- |:-------------:| 
 | Angielski            | A2          | 
 | Niemiecki            | A1          |   
----
+
+----
   
   
 Skontaktuj się ze mną: akola@post.pl

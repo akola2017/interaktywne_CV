@@ -7,7 +7,7 @@
 4. JIRA
 5. Docker
 
-Studiowałam na https://www.wsb.pl/wroclaw/kandydaci/studia-podyplpomowe/[GitHub](http://github.com)
+Studiowałam na [WSB](https://www.wsb.pl/wroclaw/kandydaci/studia-podyplomowe/kierunki/tester-oprogramowania-dla-aplikacji-mobilnych-i-serwerowych)
 
 Skontaktuj się ze mną: akola@post.pl
 
